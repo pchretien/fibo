@@ -1,3 +1,11 @@
+//
+// This project is protected under the Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+// Attribute this work to https://github.com/pchretien/fibo
+//
+// This project contains code and libraries provided by Adafruit Industries and can be found on their Github account at:
+// https://github.com/adafruit
+//
+
 #include <Wire.h>
 #include "RTClib.h"
 #include <Adafruit_NeoPixel.h>
