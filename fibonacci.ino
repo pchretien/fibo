@@ -10,7 +10,8 @@
 #define DEBOUNCE_DELAY 10
 #define MAX_BUTTONS_INPUT 20
 #define MAX_MODES 3
-#define MAX_PALETTES 4
+#define MAX_PALETTES 10
+#define TOTAL_PALETTES 10
 #define CLOCK_PIXELS 5
 
 // Parameter 1 = number of pixels in strip
@@ -20,38 +21,94 @@
 //   NEO_KHZ400  400 KHz (classic 'v1' (not v2) FLORA pixels, WS2811 drivers)
 //   NEO_GRB     Pixels are wired for GRB bitstream (most NeoPixel products)
 //   NEO_RGB     Pixels are wired for RGB bitstream (v1 FLORA pixels, not v2)
-Adafruit_NeoPixel strip = Adafruit_NeoPixel(10, STRIP_PIN, NEO_RGB + NEO_KHZ800);
+Adafruit_NeoPixel strip = Adafruit_NeoPixel(9, STRIP_PIN, NEO_RGB + NEO_KHZ800);
 
 byte bits[CLOCK_PIXELS];
-uint32_t colors[MAX_PALETTES][4] = 
+
+uint32_t black = strip.Color(0,0,0);
+uint32_t colors[TOTAL_PALETTES][4] = 
   {
     {
+      // #1 RGB
       strip.Color(255,255,255),    // off
       strip.Color(255,10,10),  // hours
       strip.Color(10,255,10),  // minutes
       strip.Color(10,10,255) // both;
     }, 
     {
+      // #2 Mondrian
       strip.Color(255,255,255),    // off
       strip.Color(255,10,10),  // hours
-      strip.Color(248,202,0),  // minutes
+      strip.Color(248,222,0),  // minutes
       strip.Color(10,10,255) // both;
     }, 
     {
+      // #3 Basbrun
       strip.Color(255,255,255),    // off
-      strip.Color(228,101,43),  // hours
-      strip.Color(158,168,38),  // minutes
-      strip.Color(28,224,208) // both;
+      strip.Color(80,40,0),  // hours
+      strip.Color(20,200,20),  // minutes
+      strip.Color(255,100,10) // both;
     },
     {
+      // #4 80's
       strip.Color(255,255,255),    // off
-      strip.Color(203,36,2),  // hours
-      strip.Color(184,220,60),  // minutes
-      strip.Color(53,35,93) // both;
+      strip.Color(245,100,201),  // hours
+      strip.Color(114,247,54),  // minutes
+      strip.Color(113,235,219) // both;
+    }
+    ,
+    {
+      // #5 Pastel
+      strip.Color(255,255,255),    // off
+      strip.Color(255,123,123),  // hours
+      strip.Color(143,255,112),  // minutes
+      strip.Color(120,120,255) // both;
+    }
+    ,
+    {
+      // #6 Modern
+      strip.Color(255,255,255),    // off
+      strip.Color(212,49,45),  // hours
+      strip.Color(145,210,49),  // minutes
+      strip.Color(141,95,224) // both;
+    }
+    ,
+    {
+      // #7 Cold
+      strip.Color(255,255,255),    // off
+      strip.Color(209,62,200),  // hours
+      strip.Color(69,232,224),  // minutes
+      strip.Color(80,70,202) // both;
+    }
+    ,
+    {
+      // #8 Warm
+      strip.Color(255,255,255),    // off
+      strip.Color(237,20,20),  // hours
+      strip.Color(246,243,54),  // minutes
+      strip.Color(255,126,21) // both;
+    }
+    ,
+    {
+      //#9 Earth
+      strip.Color(255,255,255),    // off
+      strip.Color(70,35,0),  // hours
+      strip.Color(70,122,10),  // minutes
+      strip.Color(200,182,0) // both;
+    }
+    ,
+    {
+      // #10 Dark
+      strip.Color(255,255,255),    // off
+      strip.Color(211,34,34),  // hours
+      strip.Color(80,151,78),  // minutes
+      strip.Color(16,24,149) // both;
     }
   }; 
   
 RTC_DS1307 rtc;
+
+boolean on = true;
 
 byte oldHours = 0;
 byte oldMinutes = 0;
@@ -94,7 +151,7 @@ void setup()
   
   pinMode(13, OUTPUT);
   
-  for(int i=0;i<2;i++)
+  for(int i=0;i<10;i++)
   {
     digitalWrite(13, HIGH);
     delay(100);
@@ -114,6 +171,7 @@ void loop()
 //  setPixel(4, strip.Color(255,10,10));
 //  strip.show();
 //  return;  
+
   
   // Read buttons
   int set_button = debounce(SET_PIN);
@@ -123,28 +181,36 @@ void loop()
   
   if( set_button && hour_button && hasChanged(HOUR_PIN))
   {
-    DateTime fixTime = rtc.now();
-    rtc.adjust( DateTime(fixTime.unixtime() + 3600) );
+    DateTime newTime = DateTime(rtc.now().unixtime()+3600);
+    rtc.adjust( newTime );
+    
     displayCurrentTime();
   }
   else if( set_button && minute_button && hasChanged(MINUTE_PIN))
   {
     DateTime fixTime = rtc.now();
-    rtc.adjust( DateTime(
+    
+    DateTime newTime = DateTime(
           fixTime.year(), 
           fixTime.month(), 
           fixTime.day(), 
           fixTime.hour(), 
-          (fixTime.minute()+5)%60, 
-          fixTime.second()) );
+          ((fixTime.minute()-fixTime.minute()%5)+5)%60, 
+          0);
+          
+    rtc.adjust( newTime );
           
     displayCurrentTime();
   }
+  else if( minute_button && hasChanged(MINUTE_PIN))
+  {
+    toggleOnOff();
+  } 
   else if( hour_button && hasChanged(HOUR_PIN))
   {
     palette = (palette+1)%MAX_PALETTES;
     oldHours = 99;
-  }  
+  }   
   else if( button && hasChanged(BTN_PIN))
   {
     mode = (mode+1)%MAX_MODES;
@@ -422,23 +488,21 @@ void setBits(byte value, byte offset)
       }          
 
       break;
-    case 12:
-      bits[0]|=offset;
-      bits[1]|=offset;
-      bits[2]|=offset;
-      bits[3]|=offset;
-      bits[4]|=offset;      
-      break;
   }
 }
 
 void setPixel(byte pixel, uint32_t color)
 {
+  if(!on)
+    return;
+  
   switch(pixel)
   {
     case 0:
+      strip.setPixelColor(0, color);
+      break;
     case 1:
-      strip.setPixelColor(pixel, color);
+      strip.setPixelColor(1, color);
       break;
     case 2:
       strip.setPixelColor(2, color);
@@ -463,16 +527,24 @@ void rainbow(uint8_t wait)
 
   for(j=0; j<256; j++) 
   {
-    for(i=0; i<strip.numPixels(); i++) 
+    for(i=0; i< CLOCK_PIXELS; i++) 
     {
-      strip.setPixelColor(i, Wheel((i+j) & 255));
+      setPixel(i, Wheel((i+j) & 255));
     }
+    
     strip.show();
     delay(wait);
     
     if(debounce(BTN_PIN) && hasChanged(BTN_PIN))
     {
       mode = (mode + 1)%MAX_MODES;
+      resetButtonValues();
+      return;
+    }
+    
+    if(debounce(MINUTE_PIN) && hasChanged(MINUTE_PIN))
+    {
+      toggleOnOff();
       resetButtonValues();
       return;
     }
@@ -503,6 +575,13 @@ void rainbowCycle(uint8_t wait)
       return;
     }
     
+    if(debounce(MINUTE_PIN) && hasChanged(MINUTE_PIN))
+    {
+      toggleOnOff();
+      resetButtonValues();
+      return;
+    }
+    
     resetButtonValues();
   }
 }
@@ -525,6 +604,22 @@ uint32_t Wheel(byte WheelPos)
    WheelPos -= 170;
    return strip.Color(0, WheelPos * 3, 255 - WheelPos * 3);
   }
+}
+
+void toggleOnOff()
+{
+  if( on )
+  {
+    for( int i=0; i<CLOCK_PIXELS; i++)
+      setPixel(i, black);
+      
+    strip.show();
+  }
+  
+  on = !on;
+  
+  if(on)
+    oldHours = 99;
 }
 
 void printDateTime(DateTime now)

@@ -1,0 +1,6 @@
+*.gcode
+*.stl
+*.skb
+*.bak
+*.nc
+*.dxf
