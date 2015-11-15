@@ -127,22 +127,22 @@ int currentButtonValue[MAX_BUTTONS_INPUT];
 int mode = 0;
 int palette = 0;
 
+byte error = 0;
+byte oldError = 0;
+
 void setup() 
 {
+  Serial.begin(9600);
+  
   // Initialize the strip and set all pixels to 'off'
   strip.begin();
   strip.show(); 
-  
-  // Open serial comm with the PC
-  Serial.begin(9600);
-  
+    
   Wire.begin();
   rtc.begin();
 
   if (! rtc.isrunning()) 
   {
-    Serial.println("RTC is NOT running!");
-    // following line sets the RTC to the date & time this sketch was compiled
     rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
     // This line sets the RTC with an explicit date & time, for example to set
     // January 21, 2014 at 3am you would call:
@@ -159,14 +159,17 @@ void setup()
   
   pinMode(13, OUTPUT);
   
-  for(int i=0;i<10;i++)
+  for(int i=0;i<4;i++)
   {
     digitalWrite(13, HIGH);
-    delay(100);
+    delay(250);
     digitalWrite(13, LOW);
-    delay(100);
+    delay(250);
   }
   
+  // Make sure the time is always displayed the first 
+  // time the clock is powered on.
+  oldHours = 99;
 }
 
 void loop() 
@@ -187,7 +190,20 @@ void loop()
   int minute_button = debounce(MINUTE_PIN);
   int button = debounce(BTN_PIN);
   
-  if( set_button && hour_button && hasChanged(HOUR_PIN))
+  if(set_button && button && hasChanged(BTN_PIN))
+  {    
+    for(int i=0; i<100; i++)
+    {
+      if(!debounce(SET_PIN) || !debounce(BTN_PIN))
+        break;
+    }
+    
+    if(debounce(SET_PIN) && debounce(BTN_PIN))
+    {
+      checkErrors();
+    }
+  }  
+  else if( set_button && hour_button && hasChanged(HOUR_PIN))
   {
     DateTime newTime = DateTime(rtc.now().unixtime()+3600);
     rtc.adjust( newTime );
@@ -218,15 +234,18 @@ void loop()
   {
     palette = (palette+1)%MAX_PALETTES;
     oldHours = 99;
+    oldError = 99;
   }   
   else if( button && hasChanged(BTN_PIN))
   {
-    mode = (mode+1)%MAX_MODES;
+    mode = mode + 1;
+    
+    if(mode >= MAX_MODES)
+      mode = 0;
   }
 
   // Store buttons new values
   resetButtonValues();
-  Serial.println(mode, DEC);
   switch(mode)
   {
     case 0:  
@@ -241,6 +260,12 @@ void loop()
     case 2:
       oldHours = 99;
       rainbow(20);
+      break;
+      
+    case 3:
+      oldHours = 99;
+      // Display error code
+      displayErrorCode();
       break;
   }  
 }
@@ -303,8 +328,33 @@ void setTime(byte hours, byte minutes)
     setPixel(i, colors[palette][bits[i]]);
     strip.show();
   }
+}
+
+void displayErrorCode()
+{
+  if(oldError == error)
+    return;
+    
+  oldError = error;
   
-  Serial.println();
+  for(int i=0; i<CLOCK_PIXELS; i++)
+    bits[i] = 0;
+  
+  if(error == 0)
+  {
+    setBits(12, 0x02);
+  }
+  else
+  {
+    setBits(error, 0x01);
+  }
+
+  for(int i=0; i<CLOCK_PIXELS; i++)
+  {   
+    setPixel(i, colors[palette][bits[i]]);
+  }
+  
+  strip.show();
 }
 
 void setBits(byte value, byte offset)
@@ -496,6 +546,14 @@ void setBits(byte value, byte offset)
       }          
 
       break;
+    case 12:
+      bits[0]|=offset;
+      bits[1]|=offset;
+      bits[2]|=offset;
+      bits[3]|=offset;
+      bits[4]|=offset;        
+      
+      break;
   }
 }
 
@@ -627,7 +685,32 @@ void toggleOnOff()
   on = !on;
   
   if(on)
+  {
     oldHours = 99;
+    oldError = 99;
+  }
+}
+
+void checkErrors()
+{
+  error = 0;
+  oldError = 99;
+  mode = 3;
+  palette = 0;
+  
+  // Test sequence
+  if (! rtc.isrunning())
+  {
+    error |= 0x1;
+  }
+  
+  int time1 = rtc.now().unixtime();
+  delay(1200);
+  int time2 = rtc.now().unixtime();
+  if(time1 == time2)
+  {
+    error |= 0x02;
+  }  
 }
 
 void printDateTime(DateTime now)
