@@ -1,9 +1,26 @@
+// Fibonacci Clock
 //
-// This project is protected under the Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
-// Attribute this work to https://github.com/pchretien/fibo
+/ This program is free software; you can redistribute it and/or
+// modify it under the terms of the GNU General Public License Version 2
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program; if not, write to the Free Software
+// Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+//
+// You will find the latest version of this code at the following address:
+// https://github.com/pchretien/fibo
 //
 // This project contains code and libraries provided by Adafruit Industries and can be found on their Github account at:
 // https://github.com/adafruit
+//
+// Credits:
+// See the credit.txt file for the list of all the backers of the Kickstarter campaign.
+// https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-clock-for-nerds-wit/description
 //
 
 #include <Wire.h>

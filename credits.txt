@@ -1,0 +1,1220 @@
+This is the list of all the people who made this project possible by supporting me on Kickstarter. Many many many thanks to all of you, the nerdiest of the nierdest!
+https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-clock-for-nerds-wit/description
+
+0001	Pierre Giguère
+0002	Stack8 Technologies
+0004	Emma et Alice Fortin
+0005	Bernd Sing
+0007	Steve Ramsey
+0008	Edith
+0009	Zef
+0010	Denis Gagnon
+0011	Hugomatic
+0012	Samuel Dubois
+0013	Guillaume Roy
+0014	Andre Breiler
+0015	Stephane Bougie
+0016	Gilles Leblanc
+0018	Christian Demers
+0019	jjm
+0020	Alexandre Rondeau
+0021	Flavio
+0022	Matt Watson
+0023	Fred
+0024	Dennis Hill, PhD
+0025	John Vanderlans 
+0026	Marcus Whitford 
+0027	Doug Jackson
+0028	BrandonB
+0029	Flying Spaghetti Monster
+0031	Julian Fletcher 
+0032	Alexandre Sauriol
+0033	Don Burkes
+0034	Yu Sekiguchi
+0036	Deepthi & Alok
+0037	Rebecca Weinberg
+0038	MaxWGF
+0039	Phil Wilt
+0040	William James Rompf II
+0041	livide
+0042	Michele Cavuoti
+0044	Škratja Katja
+0045	Jattie van der Linde 
+0046	Aaron Grove
+0047	Greg Hill
+0048	Kenzo H
+0049	Matic Jurglic
+0050	Carol
+0051	Beat Bieler
+0052	Josh Ward
+0053	Neville Tse
+0054	Helen Jerry
+0055	Guillaume Tremblay
+0056	Tripura & Anand
+0057	Chris Hazelton
+0058	Mr. David Racich
+0059	Danny Martorana
+0060	Ivailo Atanassov
+0061	Agatha Henriette Lechien
+0062	SaraM
+0063	Marc
+0064	Michael Brown
+0066	Ltdnyc
+0067	Tim R.
+0068	Leonard Brown
+0069	G. Michael Guy
+0070	Monique & Louis
+0071	GabeK
+0072	J. Longman
+0073	iampandacat
+0074	Annette Adler
+0075	Christine lam
+0076	Planète 22
+0077	claudine braendle
+0078	Flem Snopes
+0079	David Boyer
+0080	Ricardo Decca
+0081	Hans Goubert
+0082	Ross J Heide
+0084	Scifideity
+0085	Zhiquan Yeo
+0086	Andrew Le (werdna92)
+0087	Chris 
+0088	Laurence Simon
+0089	Charlie
+0090	Roshan Malik
+0091	Ryan Mix
+0092	Patrick Jaszewski
+0093	Benzie Dio
+0094	Marcelo
+0095	Carmen Yazejian
+0096	Nap
+0097	Dawn Grob
+0098	bmill
+0099	Stephanie Hawn
+0100	Bevando Productions
+0101	Bill Wiesenbach
+0102	Ryan D. Booker
+0105	Jen
+0106	Ryan Knopp
+0107	Dr. Sid Kolpas
+0108	Almis Kuolas
+0109	Konstantin Ignatyev
+0110	Hilda
+0111	Evan Gunderson
+0112	Erick Brien Beebe 
+0113	Christine Shen
+0114	Biznatch McGee
+0115	Kimberly Adams
+0116	Ross
+0117	Carl Brutananadilewski
+0118	Jennifer Felten
+0119	Alex Dickinson
+0120	James Robinson
+0121	Kathryn Archibald
+0122	Roland Schmid
+0123	The Phoenix Pargas
+0125	Nate Venet
+0126	Helen Kovac
+0127	Jacob Ernst
+0128	Anonymous
+0129	Christopher Woodward
+0130	The Salkin Family
+0132	Roll with Jen
+0133	Nathan Scripps
+0134	Mike Tripicco
+0135	Simon Collings
+0136	Chris van Eyck
+0137	Rob Lawlis
+0138	Caê Penna 
+0139	Dimitri C
+0140	Antonia Huber 
+0141	Jeanne DiLeo
+0142	D C Schumacher
+0143	Dennis Troyer
+0144	Robert
+0145	MH
+0146	Rick
+0147	Peter E. Humphries
+0148	Toymax
+0149	Brian Cutler
+0150	Andy Hopkins
+0151	Tim Southon
+0152	Rob
+0154	Peter Pearson
+0155	Cheryl and Cynthia
+0156	Kenneth Thomas
+0157	Andrew Lohmann
+0158	Conrado Radi Calalang
+0159	MaXiMuS K
+0160	K-Sonic
+0161	Sameen "Nerky" Ahmad Shoenhair
+0162	Kate Lundberg
+0163	Dave Grochocki
+0164	Laura Fisher
+0165	Bradford O'Donnell
+0166	Heidi
+0167	Rory Carlin
+0169	virtualjane
+0170	Kyle Davies
+0171	Peter girguis
+0172	Doug Ayen
+0173	Velan
+0174	Sondra Eklund
+0175	Bree Akesson
+0176	Russell W. Ulbrich
+0177	Scott Titus
+0178	Mark Borins 
+0179	Emily Martin
+0180	CWDW
+0182	Alexander J Borsos
+0183	Joshua Kooiman
+0184	Ned Freed
+0185	S. Drake
+0186	Clay&Pam Schwenn
+0187	Viet
+0188	Sarah Vallette
+0189	Robert Saliba
+0190	Danilo Isaac
+0191	D. T. Rosenoff
+0192	E Cheng
+0193	Mike Cadogan
+0194	Erik Goverde
+0196	Hiroyuki Ushito
+0197	Ian Woo
+0198	Filip De Graeve
+0199	barry whyte
+0200	Denise
+0201	Kthber
+0202	Jennifer Walsh
+0203	Suze Emmett
+0204	Carla Flexman
+0205	Joseph, Matilda & Margot
+0206	Ella Kaye
+0207	Jos Underhill
+0208	Zeni
+0209	K D Banarse
+0210	Simon Elkjær Sørensen
+0211	Elliot Leibu
+0212	Remko
+0213	Sanjay Nijran
+0214	Steven Metcalf
+0215	Ivan Andrews
+0216	barak schmool
+0217	Mark
+0218	Mala Balani
+0219	Rob Evans
+0220	Simon Holmes
+0221	Sasha Holt
+0222	Phil Spring
+0223	Simon O'Hana
+0224	Becca
+0225	Neil Bhalla
+0226	Ioan Mackay-Thomas
+0227	Derek T Flanagan
+0228	Samuel Counsell
+0229	M Clarke
+0230	Andrew Edwards
+0231	Malcolm Price
+0232	Asgeir Birkisson
+0233	Andrej 
+0234	Derek Scott
+0235	Jonny Muir
+0236	Julie Callagee
+0237	Arthur Kurtz
+0238	Jeremy Rayner
+0239	Joe McAleer
+0240	Elke Kurz
+0241	GYO GREENS
+0242	Amy Szadziewska
+0243	Tony Holdroyd
+0244	Catherine Dulac
+0245	Rachel Griffith
+0246	Leonardo
+0247	Hen-Hsen Huang
+0248	Fibonacci Ltd (UK)
+0249	Tracy Bennett
+0250	Simon Still
+0251	E&M Pisani
+0252	none
+0253	Saska Stobbe
+0254	Deborah Croker
+0255	Sabba Janjua
+0256	Matt Forster
+0257	Adam Wynn
+0258	Michael Percy Percival 
+0259	Jeff Ogden
+0261	Sabrina McIntyre
+0262	Jeremy Tucker
+0263	Patrick Lundrigan
+0264	joby mc
+0265	Alex S 
+0266	Magnus Mbanu
+0267	Chris How Kin Sang
+0268	Arwen Verrall
+0270	Ben Taylor
+0271	Roger Evans
+0272	Ian Cooper
+0273	Simon Beggs
+0274	Richi Glynn 
+0275	Flann Corcoran
+0276	Yod
+0278	Mark Pryce
+0279	Alan Russell
+0280	Gamze Ligler
+0281	Tobias Boonstoppel
+0282	Robert Freeland
+0283	Russ Culp 
+0284	Dimity
+0285	Beth
+0286	Benedict John Deuchar
+0287	Ryan Goodwin-Smith
+0288	Fibonacci
+0289	Linus Schumacher
+0290	Dominic Hodgkinson
+0291	Sandy
+0292	Lara
+0293	Loren Irwin
+0294	Calvin Osborne
+0295	Mark Longhurst
+0296	Simon Willatts
+0297	evie luzia
+0298	Alexander Suswillo
+0299	Mike Atkinson
+0300	Edward Wainwright
+0301	Adam Jackson
+0302	David Foster
+0303	Orion Ross
+0304	Chris Stoddart
+0305	David Howarth
+0306	David Tibet
+0307	Markku Hakala
+0308	Loring   (not sure what this question is asking)
+0309	Sarah Stocker
+0310	Timo uit Eindhoven
+0311	JAL
+0312	Oliver Townend
+0313	<3
+0314	David Coxon
+0315	Mike Wood
+0316	Ian Alden Russell
+0317	Anonymous
+0318	Dave Jackson
+0319	Quy Jacques Christie-Nguyen
+0320	Dr A.H.Allmark
+0321	Rebecca Lewis
+0322	John McKnight 
+0323	David McGilloway-Penfold
+0325	Matt Matravers
+0326	Jenny Blackford
+0327	Douglas Robb
+0328	Pierre Gerrard
+0329	D Morfey
+0330	Michael Tomlinson
+0331	Matthew D. Johnson (http://opendiapason.org.uk)
+0332	CITC
+0333	Tom Wells
+0335	Adam Peake
+0336	Gary Namestnik
+0337	Maxwell Darwin Swann
+0338	OB
+0339	Mike Heal
+0340	Cauderlier-Guy
+0341	Kenny Beecher
+0342	Lorna Armitage
+0343	Gerry
+0344	Henry Segerman
+0345	J.P.K.
+0346	Rosemary Nyabadza
+0347	Iain Enda McCrory
+0348	Andrew Malcolm
+0350	Jo Adde
+0351	Sky Minx of Oakland
+0352	Hironeogeo
+0353	Tare Nyabadza
+0354	Karen O'Connor
+0355	Mark and Debby Taylor
+0356	Jo Abdul-Rahim
+0357	Azadeh Abbasi Shavazi & Ehsan Abbasi Shavazi
+0358	Joe Kubenka
+0359	Speedy McGruffin
+0360	Nick Mauer
+0361	Brendan Hogg
+0362	Oli
+0363	M.T. Smith 
+0364	No credit necessary, please
+0365	Fredrik Orwén
+0366	Ezekiel Charlesworth
+0367	Anonymous Clock-Watcher
+0368	Chiara and Matteo
+0370	FireHawk
+0371	Nicola Young
+0372	StillmanX
+0373	Johannes
+0374	ayelet orea
+0376	The Haas Family
+0377	Ludovic Bois
+0378	jessica Ross
+0379	Annie Maron
+0380	David Vlasblom
+0381	Robert Lewis
+0382	Kabbenbock
+0383	Signee Hoffman
+0384	Richard
+0385	John A Steinbrunner
+0386	Paul Donald
+0387	Josh Fincke
+0388	Loh Li Zhi 
+0389	Martin Makela
+0390	Ray Solomon
+0391	Chris Luke
+0392	Jason Harbor
+0393	Kimberlee papette hillyard
+0394	Bart Pingnet
+0395	Alfredo Rodriguez
+0396	Jeffory Frayser
+0397	Thomas Soupre
+0398	Panagiotis Symeonidis
+0399	Clare Heyward
+0400	Sander Claassen
+0401	james wale
+0402	Kate Gallafent
+0403	Lisa
+0404	Eddie Preston
+0405	Diane Laflamme
+0406	JS
+0407	D. Bruce Stevens 
+0408	M. Akister
+0409	Val Johnson
+0410	Gabriel Montana Leis
+0411	Don_Goddard
+0412	Sumner Hearth
+0413	Peter Stubbs
+0414	Daniel
+0415	Sarah
+0416	Ryan Foudray
+0417	Hermanci z Rynholce
+0418	Mr Brian Hanna
+0419	Chris Parker
+0420	Nick P
+0421	Louise Bates
+0422	Susie Stone
+0423	Mohammad Al-Radwan
+0424	Liesl Lowes
+0425	Matt Woodford
+0426	Stephen Hocking
+0427	M Sharma
+0429	Dan Shepelavy
+0430	Wayne Brinkman
+0431	Gangadhar Sulkunte 
+0432	The Family Crossland
+0433	Franny Eanet
+0434	Joe and Jenny Chambers
+0435	Thomas Green
+0436	Brad Bollner
+0437	Tony Yeoh
+0438	Dr.AlexanderMClark
+0439	Michael Clark
+0440	Gildo
+0441	John Wright
+0442	Stegga Jackson
+0443	swissamst
+0444	Ihor Biloushchenko
+0445	Jeff Purdue
+0446	alex knight
+0447	Philippe
+0448	Pete Rogers
+0449	HeyMrSpaceman
+0450	Quirijn Boeren
+0451	Martin Bush
+0452	IAN KELLY
+0453	Ben Feben
+0454	Flora Day
+0455	Mary Shaughnessy
+0456	Tim Parry
+0457	Hal Pepper
+0458	Daniel Byles
+0459	Drew Dorgan
+0460	Natasha McFlinn
+0461	Kelly
+0462	Toby Tucker & Family
+0463	Skye Stripeikis
+0464	Anon
+0466	David Nussear
+0467	Sharif Elgamal
+0468	Bruce Prior
+0469	Zvi
+0470	Alexa Morcom
+0471	Matthew Banks
+0472	Craig Foster
+0473	Robyn Ferguson
+0474	Jeremy Tod
+0475	Troy Livingston
+0476	David Belavy
+0477	Catherine M Ganley
+0478	Algernon Aloysius St.John-Cholmondeley-Featherstonhaugh
+0479	Jeff & Conni Desilva, Sierra Grace Mayr & Caitlin Mayr
+0480	Mike Bevan
+0481	Ian Daw
+0482	Connor Kirschbaum
+0483	Richard Edwards
+0484	Nate MacFadden 
+0485	Nitram the Great
+0486	Julie and Matt
+0487	Bruno Rubin
+0489	Edward Petch
+0490	Lester Tay
+0491	Randy Tapson
+0492	Dennis Risser
+0493	Ray Corcoran
+0494	Rob O'Neill
+0495	Mark A Mc 
+0496	Kathryn Barras
+0497	Giles Austen
+0498	rob lieber
+0499	Yannick Hill
+0500	Alexander Wong
+0501	Edward B 
+0502	Andres Otero Forero
+0503	JFKIII
+0504	Adam A. Bur
+0505	Alex Bowen
+0506	TimE
+0507	James McLaren
+0508	Walt Burge
+0509	Bert Norton
+0510	Christel Lopez-Berryman
+0511	Jonathan  Adler
+0512	Camille Dickson-Deane
+0513	Leonardo Pisano Bigollo
+0514	Melissa V
+0517	Alan Kennedy
+0518	Rebecca Crawford 
+0519	alison
+0520	anon
+0521	Russ Kadooka
+0522	bas
+0523	Ray Culvenor
+0524	Zeb
+0525	Emma Probyn 
+0526	Sieta Beckwith
+0527	Don Kuhn-Choi
+0528	Stephen Potter
+0529	Daniel Rafferty
+0530	Christopher McCarroll
+0531	Niezbo
+0532	Simon Noble
+0534	RobT
+0535	MoreToJack
+0536	Bindu Suresh
+0537	Manav Mittal
+0538	Qiu Jiayi
+0539	Adrian Peckover
+0540	Nathanial Rhodes
+0541	John Prins
+0542	Dean Sabella
+0543	Arthur Lusher
+0544	Edmistons
+0545	John Simpson
+0546	Craig Weller
+0548	Chris Littlewood
+0549	Paul Ludlow
+0550	Katie Marshall
+0551	Robert Whalen
+0552	Antony Pinhorn
+0553	Hannu Sinisalo
+0554	Mark K
+0555	Jacob Stretton
+0556	Tim Roberts
+0557	Catherine Mowat
+0558	Luke Hutchinson
+0559	Kor Xingzhi
+0560	JMC
+0562	Troyer Alberto
+0563	Steven Heddle
+0564	Dominic Beirne
+0565	Richard Edwards
+0566	Damien Yee
+0567	Sam
+0568	Paul Richardson
+0569	 
+0570	Abdabs WD
+0571	Rod Bond
+0572	Sadhbh Neill
+0573	Ineptobot
+0574	Maria Hudson
+0575	Stroevey
+0576	Ian Batty
+0577	Yamen Sader
+0578	Tamara Herbert
+0579	Jerry Brown
+0580	Nick McCloud 
+0581	Na
+0582	DKM&J Gill
+0583	Swee Ghee Khoo
+0584	Gopal Narayanan 
+0585	Andrew Baker
+0586	Terry Pace
+0587	Heidi Johnson
+0588	Albert Fox Cahn III
+0589	Craig Hogg
+0590	Joseph McAlhany
+0591	Sean Brunelle
+0592	John Steigerwald
+0593	Marcelo Michelino
+0594	Malcolm Demanuele
+0595	Ben Patrick Wilkin
+0596	Jagesh V. Shah
+0597	Gabriela Gonzalez
+0598	lubos_v
+0599	Daniel Scher
+0600	Fridolin Einböck 
+0601	Jean Pacaud
+0602	Olivia Higgins
+0603	Nigel Morgan
+0604	Boba Fett
+0605	pac_man
+0606	Tim McCullough
+0608	Pieter
+0609	Jack Harkness
+0610	Huw 
+0611	Charles E. Dortch
+0612	Fanie Kriel
+0613	Nicholas Booth
+0614	Mel Futrell 
+0615	Enri+
+0616	Katherine T
+0617	Jon Neumann
+0618	Didier Jeandrevin
+0619	Rafi Gayer
+0620	George Gao
+0621	Regan Johnson
+0622	Luis blackaller
+0623	Greck Cannon
+0624	Richard Letts
+0625	Alex R. Gulotta & Anthony M. Gulotta
+0626	Elizabeth Jennings
+0627	Razavi-Nematollahi
+0629	Gabriel Ocampo & Jaime Alarcón
+0630	Manuel Forster
+0631	Amanda Ringwood
+0632	Mark Adler
+0633	Paul Gardner
+0634	colin flavin
+0635	Ross Ebeling
+0636	Johannes Meyer
+0637	Rüdiger
+0638	Jean sutherland
+0639	Daniel Ruf
+0640	Dario
+0641	Cenk Sayir
+0642	Axel Laprise
+0643	Mark Maidaniuc
+0644	Torsten Rosenwald
+0645	BenE
+0646	David Wilde
+0647	A Phillips
+0648	Tom Huard
+0649	John Perry
+0650	Helen and Brian Bodell
+0651	Stu Cochrane
+0652	Nick Bull
+0653	Aaron Bristow
+0654	Sam Tehrani 
+0655	kaetamer
+0656	La famille Chainey
+0657	Harvey
+0658	Dondon Sacamos 
+0659	Pam
+0660	andrea kincannon
+0661	John Bugg
+0662	Jimmy Bean
+0663	Dave Noonan
+0664	Etienne Morin
+0665	Evan Lipsitz
+0666	Eric Sizam
+0667	Anne Myerscough
+0669	W B McCarty
+0670	Tiffanie
+0671	Scott Paine
+0672	nick welch
+0673	Jacques Paquin
+0674	Philippe
+0675	Peter Chisholm
+0677	Jan Paul
+0678	Meryl McKerrow
+0679	BKL
+0680	Amelia Mylvaganam
+0681	Sarah Rezny
+0682	Greg Kift
+0683	Nibs
+0684	Andrea Jacka
+0685	jeffnew
+0686	James Orr
+0687	Greg Hall
+0688	Chris Barrington
+0689	Jerome Bowe
+0690	Jim & Sara Shaw
+0691	John Ramsden
+0692	Ashwin D'Costa
+0693	David Clifford
+0694	Kev Fincham
+0695	Charles Creffield
+0696	fiona
+0697	Zekiel Hong
+0698	Robert Culp
+0699	Yvonne Luxford
+0700	Theodore Darling
+0701	Patrik Lord
+0702	Vincent
+0703	Mihir Kulkarni
+0704	Olaf Hoebel
+0706	Richard
+0707	squidley
+0708	Ann Wagstaff
+0709	Darren I McCourt
+0710	Gypsy O'Dea
+0711	CJ Chambers 
+0712	Ng Jieying
+0713	Brian Earle
+0715	Ed Kessler
+0716	Michael Wright
+0717	Kenneth Lindqvist
+0718	Mark McCartney
+0719	Duncan Hamilton
+0720	Tinker Taylor
+0721	Thomas H
+0722	laffolter
+0723	Sallie Fenwick
+0724	George Patterson
+0725	Sproket
+0726	Jonathan King
+0727	axel cleeremans
+0728	Justin Craig Chaplin
+0729	Andrew Hume
+0730	Rupert
+0731	David K. Groff
+0732	Kirsten Heitmann
+0733	Melissa Lindsey
+0734	Trevor FOOEY Furnell
+0735	Anthony Treuer
+0736	Lundäng
+0737	Jaimin Thakrar
+0738	A B Barnett
+0739	Cooper
+0740	Hailey Wilson 
+0741	Mark Huynh
+0742	Joseph Jackson 
+0743	Brent R.
+0744	Patrick Lesslie
+0745	Dr Geoff Archer
+0747	Jason Asher
+0748	The Force
+0749	Oscar Buzzio
+0750	Peter Noelle
+0751	Simon Bugler
+0752	Tom Broughton
+0753	Paul Spencer
+0754	Robert Frost
+0755	Chris Ostrom
+0756	Reed Martin
+0757	Michael Aston
+0758	Kyle Huebner
+0759	Mick Fortune
+0760	Scottyoh
+0761	Dave Clark
+0762	Gary Eastin
+0763	Dag Thrane
+0764	lucien
+0765	Kapur Family
+0766	Earl Close
+0767	Samuel Landete Benavente 
+0768	Michael Artz
+0769	Clive Matthewson
+0770	lynnlikespi 
+0771	Lace David
+0772	Felix Berman
+0773	Dr Nick
+0774	Sophie Palethorpe
+0775	Lee Barnes
+0777	Lucy Ward
+0778	Piers Truter
+0781	Chad
+0782	Michael Busby
+0783	Paul Alexander Anderson
+0784	Leila jordan
+0785	BJS
+0786	Lazarus
+0787	Jake Huffman
+0788	Ian Sumesh Spurrier
+0789	Mike Mangiaracina
+0790	Fredrik Moeskau
+0791	Jacques Clement
+0792	George Mausshardt
+0793	Suzie Lee
+0794	ACTRAK
+0795	Ajith Pai2k
+0796	Jonathan
+0797	Joerg Thiele
+0798	kazuhiko nakanishi
+0799	Alex S
+0800	ZakAria
+0801	Markus Auer
+0802	Leon Koomen
+0803	Jens Krause 
+0804	John Rossetter
+0805	Trond Martin Nyhus
+0806	Andrew Fitzgibbon
+0807	Caoimhe
+0808	Sarah Orme
+0809	Jorge 
+0810	Tristan Beaumont
+0811	Sean Bechhofer
+0812	Holger Kalisch
+0813	Francois Grandjean
+0814	Neill Warhurst
+0815	campbell
+0816	Drew Sutherland
+0817	Juan Renshaw
+0818	Emma Hughes
+0819	YUMIKO KONO
+0820	Andrew O'Malley
+0821	Reid
+0822	Steve McClain
+0824	AKIRA KIZU
+0825	Warren Hatch
+0826	Herman van der Hulst
+0828	Tarun Gour 
+0829	Christopher Killion
+0831	L. S. J. D. Dawley
+0832	Paul Blanc-Durand
+0833	Ryan Willburn
+0835	Robert Miller
+0836	Tiger Greg
+0837	Tom Callanan
+0838	mue-bo
+0839	ZiPress Limited
+0840	Adrian Robinson
+0841	Guatuncle and Guatson
+0842	Katy Heald 
+0843	Chris Harrison
+0844	Florian Mössner
+0845	Wolfgang Mueller
+0846	Aurélien Berthelot
+0847	RoHAWKtics
+0848	Henry Travers
+0849	Bill Bennett
+0850	Michael Adena
+0851	Emily Galer
+0852	Gabriella Pimenta 
+0853	Llama1
+0854	Terri Mondschein
+0855	Parker Campbell
+0856	Char
+0857	DOMINIC MORRIS
+0858	Erik Sjoberg
+0859	Euan Fraser
+0860	Rich Green
+0862	jima
+0863	XENA GOETTIN DES FEUERS
+0864	Moraine Réginald
+0865	Amanda "MandyKat" Montoya
+0866	Mike Parker
+0867	Greg Sadler
+0868	Neil Davey (NDC Infotech)
+0870	Nick Folwell
+0871	Kenneth Thys
+0872	Bert
+0873	LeRoy J. Ohlson
+0874	Wilhelm Wenzel
+0875	David Ip
+0876	Bosco Rosenberg
+0877	KatieF
+0878	Frédéric Gagnon
+0879	Josh Chafetz
+0881	Anthony Shipman
+0882	Mark Miller
+0883	Steve Parham
+0884	none
+0885	Mike Holland
+0886	Matilda Pierce McBaen 5813
+0887	Brad Rothbart
+0888	Timo Knaebe
+0889	Rajendra Serber
+0890	Tom
+0891	Robdoherty2
+0892	Steve Lomax
+0894	Eric L. Apiado
+0895	Marcos
+0896	Lin & Steve HD
+0897	Michelle Moulton
+0898	Steve Roberts
+0899	Boney
+0900	benny
+0901	Kevin Robb
+0902	Kanata Kuroda
+0903	riverfront44
+0904	erika
+0906	Omiros
+0907	Stephen Robert McNally
+0908	Cindy Yip
+0910	Imran Tyabji
+0911	Derek
+0913	Stephen Doughty
+0914	The Teachers
+0915	Richard Saganey
+0916	Brandon Caudle
+0917	Joey Crispino Jr.
+0918	Joseph Peterson
+0920	Max
+0921	Siddharth Bhansali
+0922	Marc Romano
+0923	Alan Freir
+0924	Kevin Gallagher
+0925	Scott Boulton
+0927	Charles Chopp
+0928	Emily
+0930	Brian Laub
+0931	Kirsi Yliniemi
+0933	Anders K. Krabberød
+0934	Marco Bini
+0935	Ralda Ruberry
+0936	Bryan Curtis
+0937	Timothy Noonan
+0938	Francis Groleau
+0939	Michael Watson
+0940	Tom Holdsworth
+0941	Denise Del Re Filippo
+0942	Chet Getty
+0943	non
+0944	Dan Newman
+0945	Shane Wilson
+0946	Wil Driver
+0947	lloyd
+0949	Gregor Dickson
+0951	Paige Feldman
+0952	none
+0954	Diana
+0955	Zoe Limbrick
+0956	Zamen
+0957	Conor Hess
+0958	Howard
+0959	Ric Davies
+0960	John Marr
+0961	Smilovitch
+0962	Updesh
+0963	Max Forrest Liddle
+0964	Jon Hammersberg
+0965	Jason Diehl
+0966	Harry Eustace
+0968	dirk "doingx.de" geiger
+0969	Mary & Ken
+0970	James Leong
+0971	Kristi Bonvillain
+0972	Scott
+0973	Blaine Arbelaez
+0974	Imog 
+0975	Todd Harty
+0976	Alice Bowen
+0978	Fibonatti
+0979	Miguel Mateo
+0980	Patrik Matlak
+0981	A C Wei
+0982	Andy Webber
+0984	Lee G. Milne
+0985	Cheryl Honey
+0986	The burns
+0987	Eric Chabot
+0988	Patrizia, Christophe and Leopold Maters
+0989	Mary Lang
+0990	Jacqueline Razza
+0991	Colin Chapman
+0992	Pascal Groulx
+0993	Todd Johnson
+0994	Thomas Meinhardt
+0995	Telassim
+0997	Ben Case
+0998	tastewar
+0999	Stephen Elliott
+1000	Hannah and Jamie
+1001	Charles Morgan
+1002	Jackson Brogan
+1003	Wade Woodson
+1004	Skar
+1005	Jonas Kutzner
+1006	CHRONSPIRE
+1007	David Wu
+1008	Scott Roesle
+1009	Gilbert Laprise
+1010	Carl W
+1011	Chris Sharples
+1012	Elastik. Concepts
+1013	Colm Rafferty
+1014	zuzu
+1015	Matthew Wilhelm
+1016	Joen
+1017	Hamish Applegate
+1018	The Kuhn Clan
+1019	Matt Bridger
+1020	Isabelle Soulard
+1021	Ali Wood
+1022	Jonathan Morrell
+1023	George Farley
+1024	Mark Galliver
+1025	Lukas Wetzel
+1026	Shane Cowley
+1028	John A Steinbrunner
+1029	Klaus McClean
+1030	Bill Fenner
+1031	Derek Ball
+1032	Sacha Schmitz
+1034	Eva Bremander
+1035	Anonymous
+1036	Craig Stewart
+1037	Adrian
+1038	Harold Stevenson
+1039	Andy T
+1040	Yasukoto HAYASHI
+1041	Tim Bruniges
+1042	ILHAN YUSUF
+1043	Jonathan and Nadya Shaw
+1044	Gary Pathare
+1045	Arne Schollaert
+1046	Sigrid
+1047	Daniel Curtis
+1048	Cihan Misirli
+1049	J & M Webster
+1050	Lachlan Purvis
+1051	Kalliopi & Georgios
+1052	Cindy Wieland
+1053	Lily Evie Davison
+1054	Tim Chandler(2n2r5)
+1057	JimSVMI83
+1058	Graham
+1059	Marshall Doig
+1060	Katharine Fewings
+1061	Kaye Mason
+1062	Sebastian Nixon
+1064	Oistein
+1065	Kaz
+1066	Chris Wright
+1067	Steve Miller
+1068	Jinying Yu
+1069	In memory of John Henry George Luckett
+1070	Jonathan Papin
+1071	Jason Leon
+1072	Keith James Thomas
+1073	Alison Mercieca
+1074	Peter Tricarico
+1075	Jukka J.
+1076	Bob Bagnall
+1077	Michele Lodico
+1078	Pookie
+1079	Nersan Naidoo
+1080	Andy Bolton
+1081	Timea Partos
+1082	Andi Ziegmann
+1083	Matt Senuik
+1084	James Ashlee
+1085	Lore, Andreas & Sari
+1087	Brent Mekosh
+1088	Rubén Marquillas Prat
+1089	Mark Littlefield
+1090	Ben Garratt
+1091	Michael Gray
+1092	Josiah Gaskin
+1094	No name
+1095	Quinn Deans
+1096	Daniel Fortin
+1097	Ed Murray
+1098	Chris Fergus
+1099	Corey Kuhlmann
+1100	Mattias Ekström
+1101	Cameron Walton
+1102	Figie
+1103	Mehul Shah
+1104	Geir Qvist Nordhagen
+1105	Gu Bo
+1106	Dan Gillam
+1107	Michael McKenzie
+1108	Pedro Bizarro
+1109	chan iam long
+1110	Scott Segal
+1111	CaxioPeia
+1112	Rene' Moran
+1113	TheOnlinePhysicsTutor
+1114	Dogface
+1115	Miguel Sanchez
+1116	Drew King
+1117	Ehsan Shafiee
+1118	Joël Saverna
+1119	David Bartlett
+1120	David Moon
+1121	Lee Thornton
+1122	Joel Schneider
+1123	Doug Fraser
+1124	Chris "Doc Sigma" Cobb
+1125	Annihilus.X
+1127	Andrew Duncanson
+1128	Cam
+1129	Emilia & Sean
+1130	James Candelo
+1131	Nancy Ronquillo
+1132	Jackson Puleo
+1133	Brenson Humphreys
+1134	Stephen G. Biggs
+1135	Chris Conrad
+1136	C. Chamberland
+1137	Cem Zobu
+1138	Aleksandr Krymskiy
+1139	Scott
+1140	Anthony Bico
+1142	Roy Hwang
+1143	Mei Lie Wong
+1144	Graham Nilsen
+1145	Zoe Sellers
+1146	Adrian Brightmoore
+1147	Abi Smart
+1148	Steve Harris
+1149	Patrick Sanders
+1150	Lutz Ellinghaus
+1151	Ryan Hartley
+1152	Tillman
+1153	Vanessa Rendall
+1154	Johnnie Cheng
+1155	Michael Harrison
+1156	Andrew Rush
+1157	Dathlan
+1158	Giulio Napolitano
+1159	Lydia Whittington
+1160	Lance Rewerts
+1161	WCQE Tseng
+1162	ktal
+1163	Jean-Sebastien Boulanger
+1164	Lauren Boothe
+1165	Steven Christou
+1166	Caroline Gardam & Sandy McLean
+1167	Youcef Bouayad
+1168	Alisa Anglesey
+1169	Marie Muschert
+1170	Eric Audy
+1171	Benoit Laplante
+1172	Lasalade
+1173	Erikk Satie
+1174	Amélie Allard
+1175	Marie
+1176	Carole Fiset
+1177	Guypopotanne
+1178	Silvia Aguiar
+1179	Jesse Rosenstock
+1180	William C
+1181	Kathy
+1182	RickTheVoice
+1183	Marie-Monelle Gauthier
+1184	Amélie LaRoche Rioux
+1186	pal999
+1187	marijo
+1188	Sébastien Beauchesne
+1189	Yves Bousquet
+1190	Shanae Andrews
+1191	Real Fiset
+1192	Colin Thurlbourn
+1193	Jean -Pierre Rémillard
+1194	Richard Drolet
+1195	genevieve bazin
+1196	A. Gélinas
+1197	Jacob Télio
+1198	David Rocheleau Houle
+1199	Jean-François Milot
+1200	Jean Gauvin
+1201	Justified Gaines
+1202	Mario Deschenes
+1203	Les Rajotte
+1204	cyrf0006
+1205	Robert Swinkels
+1206	Alexis M.-D.
+1207	smarco
+1208	Manuel A. Rodriguez
+1210	Jeff Murdock
+1211	Philippe Palmarini
+1212	Louis L
+1213	neeneko
+1214	Jake Strelaeff
+1215	James Cobo
+1216	V. Allard
+1217	Jakit
+1218	Caroline Lacroix
+1219	Étienne Richan
+1220	topher
+1221	Judith Ludwig
+1222	Daniel Egger
+1223	Philippe
+1224	Udi Graff
+1225	Rory Cahill
+1226	Patrick Samson
+1227	TAB42
+1228	Halim H-M
+1229	Tim shaw
+1230	Bieber
+1231	Maunalanifamily
+1233	Larry
+1234	Mark Barlow
+1235	Markus Kessler
+1236	JRA
+1237	Dan Verständig
+1238	ignu
+1239	Mike Mathieson
+1240	M. David Wernette Jr.
+1241	Gabriel Dalla Lana
+1242	Veronica Tiglet Whiteacre
+1243	Greg Stanley
+1244	Cynthia Payne
+1245	Makom
+1246	NiF
+1247	Hugues Ouellet
+1248	Tixopona
+1249	Jake Gyllenhaal
+1250	Eva Meeus
+1251	Yin Harn Lee
+1252	Roman Hossein Khonsari
+1253	Michel
+1254	Mark DG
+1255	Serge Guilbert
+1256	Peter Ambrosia
+1257	Gregory Crowther
+1258	michael hoke
+1260	Lesley Purcell
+1261	Cameron Frost
+1262	Nikita Manayenkov
+1263	Kirky
+1264	Andrew David Peachey
+1265	Kelly Havlik
+1266	Marcela Pedroso Maués
+1267	T. Rosenwald 
+1268	Jonas Wilstrup
+1269	Angela Friedlander
+1270	Victoria 
+1271	Gajan Yogaranandan
+1274	Bart Walters
+1275	the Schäpertöns
+1276	Eric Hervol
+1277	Heather Brown
+1279	Francois Lemay
+1280	Ben Johnson
+1281	David Cherrie
+1282	Tookie Gill
+1283	John Lehotsky
+1284	Batman Prime
+1285	Tan and Mo
+1286	Oliver Brill
+1287	Roger Guérin
+1288	davidmasters
+1289	Esther Amiot
+1290	Giuseppe Nardulli
+1291	bzjeurd
+1292	Francis Gélinas
+1293	Ad Heestermans
+1294	Eric Kasserman
+1295	DJC
+1296	Laurent Sabourin
+1298	garvie
