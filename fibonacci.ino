@@ -515,7 +515,7 @@ void setBits(byte value, byte offset)
       }      
       break;
     case 9:
-      switch(random(2))
+      switch(random(3))
       {
         case 0:
           bits[0]|=offset;
@@ -526,6 +526,11 @@ void setBits(byte value, byte offset)
           bits[1]|=offset;
           bits[3]|=offset;
           bits[4]|=offset;
+          break;
+        case 3:
+          bits[1]|=offset;
+          bits[2]|=offset;
+          bits[3]|=offset;
           break;
       }      
       break;
