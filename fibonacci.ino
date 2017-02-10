@@ -528,9 +528,10 @@ void setBits(byte value, byte offset)
           bits[4]|=offset;
           break;
         case 3:
+		  bits[0]|=offset;
           bits[1]|=offset;
           bits[2]|=offset;
-          bits[3]|=offset;
+          bits[4]|=offset;
           break;
       }      
       break;
