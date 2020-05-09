@@ -1,7 +1,7 @@
 This is the list of all the people who made this project possible by supporting me on Kickstarter. Many many many thanks to all of you, the nerdiest of the nierdest!
 https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-clock-for-nerds-wit/description
 
-0001	Pierre Giguère
+0001	Pierre GiguÃ¨re
 0002	Stack8 Technologies
 0004	Emma et Alice Fortin
 0005	Bernd Sing
@@ -38,7 +38,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0040	William James Rompf II
 0041	livide
 0042	Michele Cavuoti
-0044	Škratja Katja
+0044	Å kratja Katja
 0045	Jattie van der Linde 
 0046	Aaron Grove
 0047	Greg Hill
@@ -69,7 +69,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0073	iampandacat
 0074	Annette Adler
 0075	Christine lam
-0076	Planète 22
+0076	PlanÃ¨te 22
 0077	claudine braendle
 0078	Flem Snopes
 0079	David Boyer
@@ -126,7 +126,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0135	Simon Collings
 0136	Chris van Eyck
 0137	Rob Lawlis
-0138	Caê Penna 
+0138	CaÃª Penna 
 0139	Dimitri C
 0140	Antonia Huber 
 0141	Jeanne DiLeo
@@ -194,7 +194,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0207	Jos Underhill
 0208	Zeni
 0209	K D Banarse
-0210	Simon Elkjær Sørensen
+0210	Simon ElkjÃ¦r SÃ¸rensen
 0211	Elliot Leibu
 0212	Remko
 0213	Sanjay Nijran
@@ -343,7 +343,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0362	Oli
 0363	M.T. Smith 
 0364	No credit necessary, please
-0365	Fredrik Orwén
+0365	Fredrik OrwÃ©n
 0366	Ezekiel Charlesworth
 0367	Anonymous Clock-Watcher
 0368	Chiara and Matteo
@@ -568,7 +568,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0597	Gabriela Gonzalez
 0598	lubos_v
 0599	Daniel Scher
-0600	Fridolin Einböck 
+0600	Fridolin EinbÃ¶ck 
 0601	Jean Pacaud
 0602	Olivia Higgins
 0603	Nigel Morgan
@@ -595,7 +595,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0625	Alex R. Gulotta & Anthony M. Gulotta
 0626	Elizabeth Jennings
 0627	Razavi-Nematollahi
-0629	Gabriel Ocampo & Jaime Alarcón
+0629	Gabriel Ocampo & Jaime AlarcÃ³n
 0630	Manuel Forster
 0631	Amanda Ringwood
 0632	Mark Adler
@@ -603,13 +603,13 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0634	colin flavin
 0635	Ross Ebeling
 0636	Johannes Meyer
-0637	Rüdiger
+0637	RÃ¼diger
 0638	Jean sutherland
 0639	Daniel Ruf
 0640	Dario
 0641	Cenk Sayir
 0642	Axel Laprise
-0643	Mark Maidaniuc
+0643	Anonymous
 0644	Torsten Rosenwald
 0645	BenE
 0646	David Wilde
@@ -698,7 +698,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0733	Melissa Lindsey
 0734	Trevor FOOEY Furnell
 0735	Anthony Treuer
-0736	Lundäng
+0736	LundÃ¤ng
 0737	Jaimin Thakrar
 0738	A B Barnett
 0739	Cooper
@@ -798,9 +798,9 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0841	Guatuncle and Guatson
 0842	Katy Heald 
 0843	Chris Harrison
-0844	Florian Mössner
+0844	Florian MÃ¶ssner
 0845	Wolfgang Mueller
-0846	Aurélien Berthelot
+0846	AurÃ©lien Berthelot
 0847	RoHAWKtics
 0848	Henry Travers
 0849	Bill Bennett
@@ -817,7 +817,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0860	Rich Green
 0862	jima
 0863	XENA GOETTIN DES FEUERS
-0864	Moraine Réginald
+0864	Moraine RÃ©ginald
 0865	Amanda "MandyKat" Montoya
 0866	Mike Parker
 0867	Greg Sadler
@@ -830,7 +830,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0875	David Ip
 0876	Bosco Rosenberg
 0877	KatieF
-0878	Frédéric Gagnon
+0878	FrÃ©dÃ©ric Gagnon
 0879	Josh Chafetz
 0881	Anthony Shipman
 0882	Mark Miller
@@ -876,7 +876,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 0928	Emily
 0930	Brian Laub
 0931	Kirsi Yliniemi
-0933	Anders K. Krabberød
+0933	Anders K. KrabberÃ¸d
 0934	Marco Bini
 0935	Ralda Ruberry
 0936	Bryan Curtis
@@ -1018,7 +1018,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 1084	James Ashlee
 1085	Lore, Andreas & Sari
 1087	Brent Mekosh
-1088	Rubén Marquillas Prat
+1088	RubÃ©n Marquillas Prat
 1089	Mark Littlefield
 1090	Ben Garratt
 1091	Michael Gray
@@ -1029,7 +1029,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 1097	Ed Murray
 1098	Chris Fergus
 1099	Corey Kuhlmann
-1100	Mattias Ekström
+1100	Mattias EkstrÃ¶m
 1101	Cameron Walton
 1102	Figie
 1103	Mehul Shah
@@ -1047,7 +1047,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 1115	Miguel Sanchez
 1116	Drew King
 1117	Ehsan Shafiee
-1118	Joël Saverna
+1118	JoÃ«l Saverna
 1119	David Bartlett
 1120	David Moon
 1121	Lee Thornton
@@ -1101,7 +1101,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 1171	Benoit Laplante
 1172	Lasalade
 1173	Erikk Satie
-1174	Amélie Allard
+1174	AmÃ©lie Allard
 1175	Marie
 1176	Carole Fiset
 1177	Guypopotanne
@@ -1111,21 +1111,21 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 1181	Kathy
 1182	RickTheVoice
 1183	Marie-Monelle Gauthier
-1184	Amélie LaRoche Rioux
+1184	AmÃ©lie LaRoche Rioux
 1186	pal999
 1187	marijo
-1188	Sébastien Beauchesne
+1188	SÃ©bastien Beauchesne
 1189	Yves Bousquet
 1190	Shanae Andrews
 1191	Real Fiset
 1192	Colin Thurlbourn
-1193	Jean -Pierre Rémillard
+1193	Jean -Pierre RÃ©millard
 1194	Richard Drolet
 1195	genevieve bazin
-1196	A. Gélinas
-1197	Jacob Télio
+1196	A. GÃ©linas
+1197	Jacob TÃ©lio
 1198	David Rocheleau Houle
-1199	Jean-François Milot
+1199	Jean-FranÃ§ois Milot
 1200	Jean Gauvin
 1201	Justified Gaines
 1202	Mario Deschenes
@@ -1144,7 +1144,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 1216	V. Allard
 1217	Jakit
 1218	Caroline Lacroix
-1219	Étienne Richan
+1219	Ã‰tienne Richan
 1220	topher
 1221	Judith Ludwig
 1222	Daniel Egger
@@ -1161,7 +1161,7 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 1234	Mark Barlow
 1235	Markus Kessler
 1236	JRA
-1237	Dan Verständig
+1237	Dan VerstÃ¤ndig
 1238	ignu
 1239	Mike Mathieson
 1240	M. David Wernette Jr.
@@ -1189,14 +1189,14 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 1263	Kirky
 1264	Andrew David Peachey
 1265	Kelly Havlik
-1266	Marcela Pedroso Maués
+1266	Marcela Pedroso MauÃ©s
 1267	T. Rosenwald 
 1268	Jonas Wilstrup
 1269	Angela Friedlander
 1270	Victoria 
 1271	Gajan Yogaranandan
 1274	Bart Walters
-1275	the Schäpertöns
+1275	the SchÃ¤pertÃ¶ns
 1276	Eric Hervol
 1277	Heather Brown
 1279	Francois Lemay
@@ -1207,12 +1207,12 @@ https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-cloc
 1284	Batman Prime
 1285	Tan and Mo
 1286	Oliver Brill
-1287	Roger Guérin
+1287	Roger GuÃ©rin
 1288	davidmasters
 1289	Esther Amiot
 1290	Giuseppe Nardulli
 1291	bzjeurd
-1292	Francis Gélinas
+1292	Francis GÃ©linas
 1293	Ad Heestermans
 1294	Eric Kasserman
 1295	DJC
